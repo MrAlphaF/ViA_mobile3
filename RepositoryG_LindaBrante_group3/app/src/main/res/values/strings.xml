@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Activity 3 Group 3</string>
+    <string name="go2nd">Go to 2nd</string>
+    <string name="save">Save</string>
+    <string name="enterText">Enter text</string>
+    <string name="showText">Entered text</string>
+    <string name="back">Back</string>
+    <string name="checkData">Check saved data</string>
+</resources>
