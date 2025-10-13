@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RepositoryG_group3</string>
+    <string name="edit_text_hint">Enter text</string>
+    <string name="save_button_text">Save</string>
+    <string name="go_to_second_button_text">Go to 2-nd</string>
+</resources>

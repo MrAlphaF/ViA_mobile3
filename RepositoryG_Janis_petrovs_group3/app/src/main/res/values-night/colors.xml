@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="midnight_blue" tools:ignore="MissingDefaultResource">#1A237E</color>
+    <color name="deep_navy" tools:ignore="MissingDefaultResource">#0D47A1</color>
+    <color name="charcoal_grey" tools:ignore="MissingDefaultResource">#212121</color>
+</resources>
